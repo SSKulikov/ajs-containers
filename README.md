@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c96pg3x0bb7mgjfo?svg=true)](https://ci.appveyor.com/project/SSKulikov/ajs-containers)
